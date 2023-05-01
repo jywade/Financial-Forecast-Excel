@@ -29,9 +29,9 @@ I utilized VLOOKUP function to create a dynamic Profit & Loss statement for each
 
 <img width="731" alt="P L Statement" src="https://user-images.githubusercontent.com/120602494/235383574-6acdb0b6-22b6-4ac5-8fa9-e5dd7031ca6c.png">
 
-I then created a financial model for AFLAC with three possible scenarios and visualized it dynamically. 
+I then created a financial model for AFLAC with three possible scenarios and visualized it dynamically utilizing VLOOKUP and OFFSET/MATCH functions.
 
-<img width="659" alt="AFL Forecasting Model" src="https://user-images.githubusercontent.com/120602494/235383656-04032fdf-bb5c-4529-a7d1-d22f6576018a.png">
+<img width="622" alt="Screenshot 2023-05-01 182730" src="https://user-images.githubusercontent.com/120602494/235542732-5cf33d85-6f12-4855-819d-53bc845d4f3c.png">
 
 I assembled and interpreted my findings in a PowerPoint presentation. 
 
