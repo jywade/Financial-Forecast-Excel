@@ -1,6 +1,6 @@
 # NYSE-FinancialForecasting
-Financial Analysis of NYSE Data
-****NOTE**** 
+****Financial Analysis of NYSE Data****
+
 
 # To view the workbook and the interactivity of the droplists and data, view the NYSE_Project.zip file.
 
