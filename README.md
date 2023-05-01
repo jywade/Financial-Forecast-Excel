@@ -33,7 +33,7 @@ I then created a financial model for AFLAC with three possible scenarios and vis
 
 <img width="659" alt="AFL Forecasting Model" src="https://user-images.githubusercontent.com/120602494/235383656-04032fdf-bb5c-4529-a7d1-d22f6576018a.png">
 
-I assembled and interpreted my finding in a PowerPoint presentation. 
+I assembled and interpreted my findings in a PowerPoint presentation. 
 
 <img width="859" alt="Question 1" src="https://user-images.githubusercontent.com/120602494/235383704-26f59f1e-8448-45a5-bc90-0ae77a66113b.png">
 
