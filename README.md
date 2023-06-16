@@ -1,16 +1,14 @@
-# NYSE-FinancialForecasting
-# Financial Analysis of NYSE Data
+#### NYSE Financial Forecast
+
+Financial Analysis of NYSE Data using Microsoft Excel.
 
 
-# To view the workbook and the interactivity of the data, view the NYSE_Project.zip file.
-
-
-**All other files are screenshots from the Excel workbook and Powerpoint presentation.**
+###### To view the workbook and the interactivity of the data, view the NYSE_Project.zip file.
 
 In this project, I went through the process of calculating summary statistics, drawing an inference from the statistics, calculating business metrics and using models to forecast future growth prospects for the companies. The goal was to perform an analysis and also create visual tools to communicate the results in an informative way.
 
-# Question 1: Was the average annual growth rate of the NYSE sector Healthcare higher than Consumer Discretionary between 2014 & 2016?
-# Question 2: How did they compare in total revenue between this period?
+**Question 1: Was the average annual growth rate of the NYSE sector Healthcare higher than Consumer Discretionary between 2014 & 2016?
+Question 2: How did they compare in total revenue between this period?**
 
 Given the NYSE dataset, I prepared by isolating the two NYSE sectors and and calculating the summary statistics between 2014 and 2016 such as Measures of Center, Measures of Spread, and Five Number Summary. 
 
